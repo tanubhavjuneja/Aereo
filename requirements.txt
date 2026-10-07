@@ -1,0 +1,8 @@
+fastapi>=0.110
+uvicorn[standard]>=0.27
+SQLAlchemy>=2.0
+reportlab>=4.0
+pydantic>=2.5
+PyMuPDF>=1.23
+qrcode[pil]>=7.4
+python-multipart>=0.0.9
